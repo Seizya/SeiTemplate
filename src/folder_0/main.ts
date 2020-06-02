@@ -1,0 +1,1 @@
+export const _T0 = "success Good";
